@@ -1,0 +1,32 @@
+
+yarn create vite@latest
+
+yarn  (para que se instale carpeta node_modules)
+
+yarn start o npm run dev - para levantar en la web
+
+enviar email
+-------------
+npm install @emailjs/browser
+
+Animacion
+-----------
+npm install framer-motion
+
+scroll a menus
+---------------
+npm install react-scroll
+
+Contador React
+-----------------
+npm install react-countup
+
+Deployamos nuestro proyecto
+--------------------------------
+yarn build
+
+subimos nuestro proyecto
+----------------------------
+pages.cloudflare.com
+
+
